@@ -1,6 +1,6 @@
 SchoolProject
 This is just a line, not even in code, to help understand what Git does.
-<--- These numbers are line numbers4
+<--- These numbers are line numbers
 They automatically add themselves once the user presses "Enter" to start a new line.
 ============
 This line seperates portions of code.
